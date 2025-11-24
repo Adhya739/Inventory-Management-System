@@ -1,10 +1,10 @@
-Project title
+#Project title
 Inventory Management System (Small Shop)
 
-Overview of the project
+#Overview of the project
 A console-based Java application to manage products, record sales and purchases, maintain stock levels, and generate alerts when inventory falls below minimum thresholds. It uses OOP principles, file-based persistence (CSV), and a HashMap for efficient product access.
 
-Features
+#Features
 Product management: Add, update, and view products.
 
 Sales and purchases: Record transactions with validation to prevent overselling.
@@ -55,7 +55,7 @@ Products: data/products.csv
 
 Transactions: data/transactions.csv
 
-Instructions for testing
+#Instructions for testing
 Add products: Use menu option to add products with ID, name, price, stock, and minimum stock.
 
 Record purchase: Increases stock; verify in product listing and CSV files after exit.
@@ -74,15 +74,6 @@ Duplicate Product IDs cannot be added.
 
 Selling when stock is insufficient should be blocked with a clear message.
 
-Screenshots (optional)
-Suggest capturing:
 
-Main menu
-
-Adding a product
-
-Recording a sale and purchase
-
-Low Stock Report output
 
 Data files (CSV) contents
