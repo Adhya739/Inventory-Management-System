@@ -29,7 +29,7 @@ Files: CSV storage for products and transactions
 #Steps to install & run the project
 Clone the repository
 
-git clone <your-repo-url
+git clone <(https://github.com/Adhya739/Inventory-Management-System.git)
 
 cd inventory-management-small-shop
 
